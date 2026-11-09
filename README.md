@@ -1,1 +1,1 @@
-# projeto-gerenciamento-configuracao-26
+# projeto-gerenciamento-configuracao-26Atividade de gerenciamento de configuracao
